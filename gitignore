@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+
+# Thư mục dữ liệu không đẩy lên GitHub
+data/
